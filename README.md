@@ -34,7 +34,10 @@ Within the project you'll find the following files:
   ```text
   host-segmentation/
   ├── README.md
+  ├── boston.zip: Dataset of boston's listings data.
+  ├── seattle.zip: Dataset of seattle's listings data.
   └── 221209_Project_Host-Segmentation.ipynb: Jupyter notebook used for Gathering, Assessment, Cleaning, Explorative Data Analysis and Visualization.
+  
 
   ```
 </details>
