@@ -7,6 +7,7 @@
 - [File Descriptions](#file-descriptions)
 - [Summary of Results](#summary-of-results)
 - [Acknowledgement](#acknowledgement)
+- [Blogpost](#blogpost)
 
 ## Installations
 
@@ -115,3 +116,8 @@ Within the project you'll find the following files:
 
 - Airbnb: for providing listings data.
 - Udacity: for teaching data analytics.
+
+## Blogpost
+
+https://medium.com/@graber.christian/this-is-why-hosting-on-airbnb-doesnt-have-to-be-a-fit-for-you-4bbfa2f96bd2
+
